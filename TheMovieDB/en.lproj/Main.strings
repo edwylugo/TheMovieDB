@@ -1,0 +1,36 @@
+
+/* Class = "UIViewController"; title = "Search Movie"; ObjectID = "8EU-4C-alz"; */
+"8EU-4C-alz.title" = "Search Movie";
+
+/* Class = "UILabel"; text = "overview"; ObjectID = "Akd-i7-7gY"; */
+"Akd-i7-7gY.text" = "overview";
+
+/* Class = "UILabel"; text = "vote_average"; ObjectID = "Ca8-ZK-ag9"; */
+"Ca8-ZK-ag9.text" = "vote_average";
+
+/* Class = "UILabel"; text = "original_title"; ObjectID = "Fmn-uK-Zzp"; */
+"Fmn-uK-Zzp.text" = "original_title";
+
+/* Class = "UITextField"; placeholder = "Nome (inglês)"; ObjectID = "TFt-Yu-nHG"; */
+"TFt-Yu-nHG.placeholder" = "Nome (inglês)";
+
+/* Class = "UINavigationItem"; title = "Search Movie"; ObjectID = "UZ2-Hr-VCN"; */
+"UZ2-Hr-VCN.title" = "Search Movie";
+
+/* Class = "UINavigationItem"; title = "Movies"; ObjectID = "VQ6-us-dbk"; */
+"VQ6-us-dbk.title" = "Movies";
+
+/* Class = "UILabel"; text = "Insira o nome do filme favorito para buscar informações"; ObjectID = "Whf-0X-ICh"; */
+"Whf-0X-ICh.text" = "Insira o nome do filme favorito para buscar informações";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZcA-Y5-LAV"; */
+"ZcA-Y5-LAV.text" = "Label";
+
+/* Class = "UILabel"; text = "release_date"; ObjectID = "jRt-34-Frf"; */
+"jRt-34-Frf.text" = "release_date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n3K-aG-Dir"; */
+"n3K-aG-Dir.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "SEARCH"; ObjectID = "ocb-x4-BoL"; */
+"ocb-x4-BoL.normalTitle" = "SEARCH";
