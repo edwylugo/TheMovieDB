@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MovieTableViewCell.prepareCell(with:):MovieTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;\(baseURL.BASE_MOVIE_POSTER_URL)\(movie.poster_path)&quot;">
+            </PersistentString>
+            <PersistentString
+               value = "movie.poster_path">
+            </PersistentString>
+            <PersistentString
+               value = "baseURL.BASE_MOVIE_POSTER_URL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MoviesTableViewController.loadMovies():MoviesTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "loadingMovies">
+            </PersistentString>
+            <PersistentString
+               value = "self.total">
+            </PersistentString>
+            <PersistentString
+               value = "currentPage">
+            </PersistentString>
+            <PersistentString
+               value = "info.total_results">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MoviesTableViewController.loadMovies():MoviesTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentPage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MoviesViewController.viewDidLoad():MoviesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "MovieDBAPI.loadGenres(movie_id: movie.genre_ids)">
+            </PersistentString>
+            <PersistentString
+               value = "movie.genre_ids">
+            </PersistentString>
+            <PersistentString
+               value = "infogenre.genres">
+            </PersistentString>
+            <PersistentString
+               value = "movie_id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in static MovieDBAPI.loadMovies(title:page:onComplete:):MovieDBAPI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.result">
+            </PersistentString>
+            <PersistentString
+               value = "response.result.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
