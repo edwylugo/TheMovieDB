@@ -14,7 +14,7 @@ class MovieDBAPI {
     
     
     
-    static private let API_KEY = "1f54bd990f1cdfb230adb312546d765d"
+    static private let API_KEY = "c5850ed73901b8d268d0898a8a9d8bff"
     static private let MOVIE_LIST_URL = "https://api.themoviedb.org/3/search/movie?"
     static private let MOVIE_LIST_LAST = "https://api.themoviedb.org/3/movie/popular?"
     static private let MOVIE_DETAILS = "https://api.themoviedb.org/3/movie/"
